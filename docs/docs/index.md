@@ -21,25 +21,27 @@ Experienced Cloud DevOps Engineer with over 14 years of expertise in delivering 
 
 ## Experience
 
-### Price Technologies - Head of DevOps Engineering (May 2024 - Current)
+### Price Technologies - (May 2024 - Current)
 
-- Develop and maintain technical documentation to ensure smooth operations and effective knowledge sharing.
-- Manage site reliability and incident response for AWS environments, ensuring system stability and performance.
-- Enhance SEO strategies using Bing Webmasters, Google Search Console, and Prerender to improve site visibility.
-- Implement proactive monitoring systems for early detection of anomalies and potential downtimes.
-- Collaborate with teams to bridge knowledge gaps and foster collaborative problem-solving for key projects.
-- Identify opportunities for cost efficiency across AWS infrastructure without compromising performance, scalability, or security.
-- Work closely with stakeholders to implement infrastructure improvements that enhance both organizational efficiency and customer experience.
+#### Head of DevOps Engineering
 
-### OWC - DevOps Consultant (May 2024 - Current)
+- Led application upgrade from Django 2.2 to 4.2, and Airflow 1.10 to 2.5.
+- Reduced AWS and Atlas MongoDB monthly spend by $15,000 per month through systematic infrastructure review and optimization of legacy resources.
+- Managed API rate limiting and custom rulesets to block malicious requests using AWS WAF.
+- Architected AWS ElasticSearch upgrade strategy across multiple critical codebases with minimal disruption.
+- Developed comprehensive SEO strategy with implementation roadmap and monitoring dashboard.
+- Implemented comprehensive CloudWatch monitoring for production systems and early anomaly detection via Slack notifications.
 
-- Contribute to Software Engineering documentation, processes, and workflows in Azure DevOps.
-- Create and manage CI/CD pipelines in Azure DevOps, Jenkins, and Octopus Deploy.
-- Advise on and manage hybrid infrastructure (On-Prem/Azure).
-- Lead migrations, including Confluence to SharePoint and ColdFusion 10 to Lucee.
-- Perform database administration tasks, such as MySQL tuning and MSSQL view creation.
-- Mentor team members to enhance platform knowledge and improve project outcomes.
-- Optimize the current CraftCMS PHP environment and advise on local development using VSCode Dev Containers.
+### OWC - (May 2024 - Current)
+
+#### DevOps Consultant
+
+- Designed, implemented, and maintained CI/CD Pipelines using Azure DevOps Pipelines and Jenkins to build Docker containers that are deployed by Octopus Deploy.
+- Implemented and managed complex data integration between Microsoft PowerApps Dataverse and Azure Synapse Link, automating Synapse Serverless view creation for PowerBI reporting using Python after migrating to Azure Data Lake Gen 2.
+- Managed reverse proxy configurations and SSL certificates across multiple sites using Apache, HAProxy, and NGINX.
+- Successfully migrated systems from Coldfusion10 to Lucee, including subsequent containerization with Docker.
+- Administer multiple database technologies (MySQL, ElasticSearch, MongoDB) including: Backup configuration, migrations, upgrades, performance optimization, and third-party integration.
+- Perform upgrades for various applications (CraftCMS, Coldfusion to Lucee) and operating systems (CentOS to RedHat).
 
 ### Rackspace Technology (2010 - 2024)
 
@@ -50,22 +52,6 @@ Experienced Cloud DevOps Engineer with over 14 years of expertise in delivering 
 - Created highly customized projects and complex solutions utilizing a wide variety of AWS Services.
 - Collaborated within a small team that followed Agile methodologies to plan both projects as well as ad-hoc tasks.
 - Proactively identified and created opportunities to optimize cost and overall security.
-
-#### AWS Cloud Engineer II - Fanatical Support for AWS (2016-2021)
-
-- Architected highly available, scalable, and secure solutions for both internal and customer-facing environments across 6 global regions.
-- Managed and tracked configurations, procedures and projects with Confluence, Github, and Jira.
-- Highly involved in the recruitment and interview process for potential candidates.
-- Collaborated with a global team to evolve and improve operational excellence across our organization.
-- Created training and support standards to drive highly successful execution rates.
-
-#### DevOps Engineer II - Rackspace Devops as a Service (2014-2016)
-
-- Configuration Management with Chef & Ansible.
-- Provisioned New Relic across environments to monitor application performance.
-- Utilized as well as maintained internal Atlassian and Github server products.
-- Managed automated build and continuous software integration in CircleCI and Jenkins.
-- Performed maintenance on high profile MySQL databases utilizing cluster and/or replication.
 
 ## Education
 
